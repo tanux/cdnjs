@@ -1,0 +1,25 @@
+{
+    "name": "all_oculistacoppola.js",
+    "filename": "all.js",
+    "version": "0.1",
+    "description": "Javascript library for website oculistacoppola.it",    
+    "keywords": [
+       "collections",
+       "models",
+       "controllers",
+       "events",
+       "popular"
+   ],
+   "maintainers": [
+       {
+           "name": "Esposito Gaetano",
+           "email": "espositogaetano87@gmail.com"            
+       } 
+   ],
+   "repositories": [
+       {
+           "type": "git"          
+       } 
+   ]
+
+}
